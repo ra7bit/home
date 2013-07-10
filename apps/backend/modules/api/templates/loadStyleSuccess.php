@@ -1,0 +1,2 @@
+{"style":[<?php echo $stylesStr;?>
+]}

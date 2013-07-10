@@ -1,0 +1,57 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: default, action: index }
+
+# generic rules
+# please, remove them by adding more specific rules
+
+api_login:
+  url: /api/login/:username/:password
+  param: {module:api, action:login}
+  
+api_register:
+  url: /api/register/:email/:username/:password
+  param: {module:api, action:register}
+  
+api_pics:
+  url: /api/loadPic/:num
+  param: {module:api, action:loadPic}
+
+api_recom_pics:
+  url: /api/loadRecomPic/:num
+  param: {module:api, action:loadRecomPic}  
+  
+api_classify:
+  url: /api/loadClassify
+  param: {module:api, action:loadClassify} 
+  
+api_style:
+  url: /api/loadStyle
+  param: {module:api, action:loadStyle} 
+  
+api_classify_pic:
+  url: /api/loadClassifyPic/:classifyId/:num
+  param: {module:api, action:loadClassifyPic}  
+  
+api_classify_style_pic:
+  url: /api/loadClassifyAndStylePic/:classifyId/:styleId/:num
+  param: {module:api, action:loadClassifyAndStylePic} 
+
+api_store:
+  url: /api/store/:pictureId/:userId
+  param: {module:api, action:store}
+  
+api_favour:
+  url: /api/favour/:pictureId/:userId
+  param: {module:api, action:favour}
+
+default:
+  url:   /:module/:action/*
+  
+default_index:
+  url:   /:module
+  param: { action: index }

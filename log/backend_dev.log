@@ -1,0 +1,1653 @@
+Jun 28 02:43:02 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": Unable to parse line 18 (api_pics).
+Jun 28 02:43:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:02 symfony [info] {sfWebDebugLogger} Configuration 65.16 ms (5)
+Jun 28 02:43:02 symfony [info] {sfWebDebugLogger} Factories 285.90 ms (1)
+Jun 28 02:43:19 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:19 symfony [info] {sfWebDebugLogger} Configuration 3.75 ms (5)
+Jun 28 02:43:19 symfony [info] {sfWebDebugLogger} Factories 55.72 ms (1)
+Jun 28 02:43:21 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:21 symfony [info] {sfWebDebugLogger} Configuration 3.50 ms (5)
+Jun 28 02:43:21 symfony [info] {sfWebDebugLogger} Factories 55.95 ms (1)
+Jun 28 02:43:21 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:21 symfony [info] {sfWebDebugLogger} Configuration 2.94 ms (5)
+Jun 28 02:43:21 symfony [info] {sfWebDebugLogger} Factories 55.73 ms (1)
+Jun 28 02:43:22 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:22 symfony [info] {sfWebDebugLogger} Configuration 4.63 ms (5)
+Jun 28 02:43:22 symfony [info] {sfWebDebugLogger} Factories 58.80 ms (1)
+Jun 28 02:43:22 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:22 symfony [info] {sfWebDebugLogger} Configuration 2.97 ms (5)
+Jun 28 02:43:22 symfony [info] {sfWebDebugLogger} Factories 56.21 ms (1)
+Jun 28 02:43:23 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:23 symfony [info] {sfWebDebugLogger} Configuration 3.45 ms (5)
+Jun 28 02:43:23 symfony [info] {sfWebDebugLogger} Factories 59.10 ms (1)
+Jun 28 02:43:24 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:24 symfony [info] {sfWebDebugLogger} Configuration 3.15 ms (5)
+Jun 28 02:43:24 symfony [info] {sfWebDebugLogger} Factories 55.36 ms (1)
+Jun 28 02:43:25 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/num).
+Jun 28 02:43:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:43:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:43:25 symfony [info] {sfWebDebugLogger} Configuration 3.37 ms (5)
+Jun 28 02:43:25 symfony [info] {sfWebDebugLogger} Factories 56.72 ms (1)
+Jun 28 02:44:10 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:10 symfony [info] {sfWebDebugLogger} Configuration 4.86 ms (5)
+Jun 28 02:44:10 symfony [info] {sfWebDebugLogger} Factories 58.84 ms (1)
+Jun 28 02:44:11 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:11 symfony [info] {sfWebDebugLogger} Configuration 5.61 ms (5)
+Jun 28 02:44:11 symfony [info] {sfWebDebugLogger} Factories 66.58 ms (1)
+Jun 28 02:44:11 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:11 symfony [info] {sfWebDebugLogger} Configuration 3.42 ms (5)
+Jun 28 02:44:11 symfony [info] {sfWebDebugLogger} Factories 58.87 ms (1)
+Jun 28 02:44:11 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:11 symfony [info] {sfWebDebugLogger} Configuration 3.78 ms (5)
+Jun 28 02:44:11 symfony [info] {sfWebDebugLogger} Factories 57.64 ms (1)
+Jun 28 02:44:12 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Configuration 5.54 ms (5)
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Factories 70.74 ms (1)
+Jun 28 02:44:12 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Configuration 4.90 ms (5)
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Factories 68.80 ms (1)
+Jun 28 02:44:12 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Configuration 4.93 ms (5)
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Factories 78.78 ms (1)
+Jun 28 02:44:12 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Configuration 4.97 ms (5)
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Factories 71.11 ms (1)
+Jun 28 02:44:12 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Configuration 4.59 ms (5)
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Factories 81.16 ms (1)
+Jun 28 02:44:12 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Configuration 5.11 ms (5)
+Jun 28 02:44:12 symfony [info] {sfWebDebugLogger} Factories 72.42 ms (1)
+Jun 28 02:44:13 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:13 symfony [info] {sfWebDebugLogger} Configuration 4.07 ms (5)
+Jun 28 02:44:13 symfony [info] {sfWebDebugLogger} Factories 77.80 ms (1)
+Jun 28 02:44:14 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:14 symfony [info] {sfWebDebugLogger} Configuration 5.90 ms (5)
+Jun 28 02:44:14 symfony [info] {sfWebDebugLogger} Factories 67.98 ms (1)
+Jun 28 02:44:15 symfony [err] {InvalidArgumentException} Unable to parse file "E:\workspacePHP\Home\apps\backend/config/routing.yml": A YAML file cannot contain tabs as indentation at line 19 (	url: /api/loadPic/:num).
+Jun 28 02:44:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 28 02:44:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:44:15 symfony [info] {sfWebDebugLogger} Configuration 2.95 ms (5)
+Jun 28 02:44:15 symfony [info] {sfWebDebugLogger} Factories 55.85 ms (1)
+Jun 28 02:44:30 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:12 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:13 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:13 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:14 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:14 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:15 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:15 symfony [err] {sfWebDebugLogger}  Error at E:\workspacePHP\Home\lib\vendor\symfony\lib\routing\sfRoute.class.php on line 55 (Argument 2 passed to sfRoute::__construct() must be of the type array, string given)
+Jun 28 02:45:40 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:45:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:45:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:45:40 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:45:41 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:45:41 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:45:42 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:45:42 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\templates\loadPicSuccess.php on line 3 (Undefined variable: pirctures)
+Jun 28 02:46:01 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:46:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:46:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:46:01 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:46:02 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:46:02 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:46:02 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:46:02 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:46:02 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:46:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:46:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:46:02 symfony [info] {sfWebDebugLogger} Configuration 9.05 ms (9)
+Jun 28 02:46:02 symfony [info] {sfWebDebugLogger} Factories 28.93 ms (1)
+Jun 28 02:46:02 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.95 ms (1)
+Jun 28 02:46:02 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.76 ms (2)
+Jun 28 02:46:02 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 27.75 ms (1)
+Jun 28 02:46:02 symfony [info] {sfWebResponse} Send content (31164 o)
+Jun 28 02:46:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:46:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:46:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:46:28 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:46:29 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:46:29 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:46:29 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:46:29 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:46:29 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:46:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:46:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:46:29 symfony [info] {sfWebDebugLogger} Configuration 11.54 ms (9)
+Jun 28 02:46:29 symfony [info] {sfWebDebugLogger} Factories 29.77 ms (1)
+Jun 28 02:46:29 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.47 ms (1)
+Jun 28 02:46:29 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.79 ms (2)
+Jun 28 02:46:29 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 24.36 ms (1)
+Jun 28 02:46:29 symfony [info] {sfWebResponse} Send content (31175 o)
+Jun 28 02:46:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:46:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:46:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:46:38 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:46:39 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:46:39 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:46:39 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:46:39 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:46:39 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:46:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:46:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:46:39 symfony [info] {sfWebDebugLogger} Configuration 9.40 ms (9)
+Jun 28 02:46:39 symfony [info] {sfWebDebugLogger} Factories 29.77 ms (1)
+Jun 28 02:46:39 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1028.58 ms (1)
+Jun 28 02:46:39 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.76 ms (2)
+Jun 28 02:46:39 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 17.28 ms (1)
+Jun 28 02:46:39 symfony [info] {sfWebResponse} Send content (31173 o)
+Jun 28 02:47:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:47:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:47:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:47:04 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:47:05 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:47:05 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:47:05 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:47:05 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:47:05 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:47:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:47:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:47:05 symfony [info] {sfWebDebugLogger} Configuration 12.78 ms (9)
+Jun 28 02:47:05 symfony [info] {sfWebDebugLogger} Factories 29.66 ms (1)
+Jun 28 02:47:05 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.42 ms (1)
+Jun 28 02:47:05 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.81 ms (2)
+Jun 28 02:47:05 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 31.66 ms (1)
+Jun 28 02:47:05 symfony [info] {sfWebResponse} Send content (31172 o)
+Jun 28 02:49:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:49:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:49:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:49:56 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:49:57 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:49:57 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:49:57 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:49:57 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:49:57 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:49:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:49:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:49:57 symfony [info] {sfWebDebugLogger} Configuration 8.05 ms (9)
+Jun 28 02:49:57 symfony [info] {sfWebDebugLogger} Factories 28.87 ms (1)
+Jun 28 02:49:57 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1042.83 ms (1)
+Jun 28 02:49:57 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.74 ms (2)
+Jun 28 02:49:57 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 17.97 ms (1)
+Jun 28 02:49:57 symfony [info] {sfWebResponse} Send content (31185 o)
+Jun 28 02:50:15 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:50:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:50:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:50:15 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:50:16 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:50:16 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:50:16 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:50:16 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:50:16 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:50:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:50:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:50:16 symfony [info] {sfWebDebugLogger} Configuration 8.03 ms (9)
+Jun 28 02:50:16 symfony [info] {sfWebDebugLogger} Factories 28.92 ms (1)
+Jun 28 02:50:16 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.60 ms (1)
+Jun 28 02:50:16 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.71 ms (2)
+Jun 28 02:50:16 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 25.11 ms (1)
+Jun 28 02:50:16 symfony [info] {sfWebResponse} Send content (31203 o)
+Jun 28 02:58:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:58:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:58:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:58:50 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:58:51 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:58:51 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:58:51 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:58:51 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:58:51 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:58:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:58:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:58:51 symfony [info] {sfWebDebugLogger} Configuration 7.49 ms (9)
+Jun 28 02:58:51 symfony [info] {sfWebDebugLogger} Factories 28.26 ms (1)
+Jun 28 02:58:51 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1027.77 ms (1)
+Jun 28 02:58:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.40 ms (2)
+Jun 28 02:58:51 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 15.31 ms (1)
+Jun 28 02:58:51 symfony [info] {sfWebResponse} Send content (31217 o)
+Jun 28 02:58:58 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:58:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:58:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:58:58 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:58:59 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:58:59 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:58:59 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:58:59 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:58:59 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:58:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:58:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:58:59 symfony [info] {sfWebDebugLogger} Configuration 9.38 ms (9)
+Jun 28 02:58:59 symfony [info] {sfWebDebugLogger} Factories 29.08 ms (1)
+Jun 28 02:58:59 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1029.42 ms (1)
+Jun 28 02:58:59 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.77 ms (2)
+Jun 28 02:58:59 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 17.80 ms (1)
+Jun 28 02:58:59 symfony [info] {sfWebResponse} Send content (31219 o)
+Jun 28 02:59:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 02:59:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 02:59:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 02:59:08 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 02:59:09 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 02:59:09 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 02:59:09 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 02:59:09 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:59:09 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 02:59:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 02:59:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 02:59:09 symfony [info] {sfWebDebugLogger} Configuration 8.67 ms (9)
+Jun 28 02:59:09 symfony [info] {sfWebDebugLogger} Factories 30.22 ms (1)
+Jun 28 02:59:09 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.51 ms (1)
+Jun 28 02:59:09 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.77 ms (2)
+Jun 28 02:59:09 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 20.11 ms (1)
+Jun 28 02:59:09 symfony [info] {sfWebResponse} Send content (31219 o)
+Jun 28 03:00:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/0 with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 03:00:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:00:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:00:05 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:00:06 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:00:06 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:00:06 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:00:06 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:00:06 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:00:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:00:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:00:06 symfony [info] {sfWebDebugLogger} Configuration 7.19 ms (9)
+Jun 28 03:00:06 symfony [info] {sfWebDebugLogger} Factories 28.01 ms (1)
+Jun 28 03:00:06 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.55 ms (1)
+Jun 28 03:00:06 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.76 ms (2)
+Jun 28 03:00:06 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 22.59 ms (1)
+Jun 28 03:00:06 symfony [info] {sfWebResponse} Send content (31243 o)
+Jun 28 03:09:04 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:09:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:09:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:09:04 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:09:06 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:09:06 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:09:06 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:09:06 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:06 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:09:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:09:06 symfony [info] {sfWebDebugLogger} Configuration 7.43 ms (9)
+Jun 28 03:09:06 symfony [info] {sfWebDebugLogger} Factories 232.93 ms (1)
+Jun 28 03:09:06 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1223.68 ms (1)
+Jun 28 03:09:06 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.89 ms (2)
+Jun 28 03:09:06 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 92.31 ms (1)
+Jun 28 03:09:06 symfony [info] {sfWebResponse} Send content (31238 o)
+Jun 28 03:09:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:09:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:09:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:09:06 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:09:07 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:09:07 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:09:07 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:09:07 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:07 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:09:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:09:07 symfony [info] {sfWebDebugLogger} Configuration 7.87 ms (9)
+Jun 28 03:09:07 symfony [info] {sfWebDebugLogger} Factories 27.87 ms (1)
+Jun 28 03:09:07 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.05 ms (1)
+Jun 28 03:09:07 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.68 ms (2)
+Jun 28 03:09:07 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 19.66 ms (1)
+Jun 28 03:09:07 symfony [info] {sfWebResponse} Send content (31268 o)
+Jun 28 03:09:09 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:09:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:09:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:09:09 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:09:10 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:09:10 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:09:10 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:09:10 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:10 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:09:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:09:10 symfony [info] {sfWebDebugLogger} Configuration 7.69 ms (9)
+Jun 28 03:09:10 symfony [info] {sfWebDebugLogger} Factories 27.53 ms (1)
+Jun 28 03:09:10 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.44 ms (1)
+Jun 28 03:09:10 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.72 ms (2)
+Jun 28 03:09:10 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 23.31 ms (1)
+Jun 28 03:09:10 symfony [info] {sfWebResponse} Send content (31267 o)
+Jun 28 03:09:11 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:09:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:09:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:09:11 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:09:12 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:09:12 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:09:12 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:09:12 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:12 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:09:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:09:12 symfony [info] {sfWebDebugLogger} Configuration 9.03 ms (9)
+Jun 28 03:09:12 symfony [info] {sfWebDebugLogger} Factories 28.70 ms (1)
+Jun 28 03:09:12 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1023.76 ms (1)
+Jun 28 03:09:12 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.59 ms (2)
+Jun 28 03:09:12 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 31.50 ms (1)
+Jun 28 03:09:12 symfony [info] {sfWebResponse} Send content (31268 o)
+Jun 28 03:09:23 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:09:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:09:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:09:23 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:09:24 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:09:24 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:09:24 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:09:24 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:24 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:09:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:09:24 symfony [info] {sfWebDebugLogger} Configuration 8.26 ms (9)
+Jun 28 03:09:24 symfony [info] {sfWebDebugLogger} Factories 27.18 ms (1)
+Jun 28 03:09:24 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1038.00 ms (1)
+Jun 28 03:09:24 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.77 ms (2)
+Jun 28 03:09:24 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 26.28 ms (1)
+Jun 28 03:09:24 symfony [info] {sfWebResponse} Send content (31268 o)
+Jun 28 03:09:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:09:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:09:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:09:34 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:09:35 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:09:35 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:09:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:09:35 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:09:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:09:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:09:35 symfony [info] {sfWebDebugLogger} Configuration 7.20 ms (9)
+Jun 28 03:09:35 symfony [info] {sfWebDebugLogger} Factories 28.07 ms (1)
+Jun 28 03:09:35 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.61 ms (1)
+Jun 28 03:09:35 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.72 ms (2)
+Jun 28 03:09:35 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 26.38 ms (1)
+Jun 28 03:09:35 symfony [info] {sfWebResponse} Send content (31268 o)
+Jun 28 03:10:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic with parameters array (  'module' => 'api',  'action' => 'loadPic',)
+Jun 28 03:10:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:10:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:10:24 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:10:25 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:10:25 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 1 - ()
+Jun 28 03:10:25 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:10:25 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:10:25 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:10:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:10:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:10:25 symfony [info] {sfWebDebugLogger} Configuration 8.43 ms (9)
+Jun 28 03:10:25 symfony [info] {sfWebDebugLogger} Factories 27.89 ms (1)
+Jun 28 03:10:25 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1037.29 ms (1)
+Jun 28 03:10:25 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.19 ms (2)
+Jun 28 03:10:25 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 29.42 ms (1)
+Jun 28 03:10:25 symfony [info] {sfWebResponse} Send content (31209 o)
+Jun 28 03:11:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:11:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:11:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:11:20 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:11:21 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:11:21 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:11:21 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:11:21 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:11:21 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:11:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:11:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:11:21 symfony [info] {sfWebDebugLogger} Configuration 8.11 ms (9)
+Jun 28 03:11:21 symfony [info] {sfWebDebugLogger} Factories 27.74 ms (1)
+Jun 28 03:11:21 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1035.31 ms (1)
+Jun 28 03:11:21 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.79 ms (2)
+Jun 28 03:11:21 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 22.94 ms (1)
+Jun 28 03:11:21 symfony [info] {sfWebResponse} Send content (31236 o)
+Jun 28 03:11:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:11:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:11:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:11:31 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:11:32 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:11:32 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:11:32 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:11:32 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:11:32 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:11:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:11:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:11:32 symfony [info] {sfWebDebugLogger} Configuration 133.94 ms (9)
+Jun 28 03:11:32 symfony [info] {sfWebDebugLogger} Factories 65.33 ms (1)
+Jun 28 03:11:32 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.44 ms (1)
+Jun 28 03:11:32 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.78 ms (2)
+Jun 28 03:11:32 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 32.72 ms (1)
+Jun 28 03:11:32 symfony [info] {sfWebResponse} Send content (31270 o)
+Jun 28 03:11:33 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:11:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:11:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:11:33 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:11:34 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:11:34 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:11:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:11:35 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:11:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:11:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:11:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:11:35 symfony [info] {sfWebDebugLogger} Configuration 10.96 ms (9)
+Jun 28 03:11:35 symfony [info] {sfWebDebugLogger} Factories 31.30 ms (1)
+Jun 28 03:11:35 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1025.74 ms (1)
+Jun 28 03:11:35 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.78 ms (2)
+Jun 28 03:11:35 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 23.54 ms (1)
+Jun 28 03:11:35 symfony [info] {sfWebResponse} Send content (31268 o)
+Jun 28 03:12:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:12:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:12:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:12:31 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:12:32 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:12:32 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:12:32 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:12:32 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:12:32 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:12:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:12:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:12:32 symfony [info] {sfWebDebugLogger} Configuration 38.04 ms (10)
+Jun 28 03:12:32 symfony [info] {sfWebDebugLogger} Factories 57.17 ms (1)
+Jun 28 03:12:32 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.74 ms (1)
+Jun 28 03:12:32 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.75 ms (2)
+Jun 28 03:12:32 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 27.89 ms (1)
+Jun 28 03:12:32 symfony [info] {sfWebResponse} Send content (31270 o)
+Jun 28 03:12:35 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/load/1 with parameters array (  'module' => 'api',  'action' => 'load',  1 => true,)
+Jun 28 03:12:35 symfony [info] {sfFrontWebController} Action "api/load" does not exist
+Jun 28 03:12:35 symfony [err] {sfError404Exception} Action "api/load" does not exist.
+Jun 28 03:12:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 03:12:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:12:35 symfony [info] {sfWebDebugLogger} Configuration 3.98 ms (5)
+Jun 28 03:12:35 symfony [info] {sfWebDebugLogger} Factories 28.27 ms (1)
+Jun 28 03:12:42 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/load/1 with parameters array (  'module' => 'api',  'action' => 'load',  1 => true,)
+Jun 28 03:12:42 symfony [info] {sfFrontWebController} Action "api/load" does not exist
+Jun 28 03:12:42 symfony [err] {sfError404Exception} Action "api/load" does not exist.
+Jun 28 03:12:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 03:12:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:12:42 symfony [info] {sfWebDebugLogger} Configuration 95.49 ms (5)
+Jun 28 03:12:42 symfony [info] {sfWebDebugLogger} Factories 64.40 ms (1)
+Jun 28 03:13:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/load/1 with parameters array (  'module' => 'api',  'action' => 'load',  1 => true,)
+Jun 28 03:13:24 symfony [info] {sfFrontWebController} Action "api/load" does not exist
+Jun 28 03:13:24 symfony [err] {sfError404Exception} Action "api/load" does not exist.
+Jun 28 03:13:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 03:13:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:13:24 symfony [info] {sfWebDebugLogger} Configuration 100.36 ms (5)
+Jun 28 03:13:24 symfony [info] {sfWebDebugLogger} Factories 67.66 ms (1)
+Jun 28 03:13:25 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/load/1 with parameters array (  'module' => 'api',  'action' => 'load',  1 => true,)
+Jun 28 03:13:25 symfony [info] {sfFrontWebController} Action "api/load" does not exist
+Jun 28 03:13:25 symfony [err] {sfError404Exception} Action "api/load" does not exist.
+Jun 28 03:13:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 03:13:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:13:25 symfony [info] {sfWebDebugLogger} Configuration 4.45 ms (5)
+Jun 28 03:13:25 symfony [info] {sfWebDebugLogger} Factories 30.59 ms (1)
+Jun 28 03:13:34 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:13:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:13:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:13:34 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:13:35 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:13:35 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:13:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:13:35 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:13:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:13:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:13:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:13:35 symfony [info] {sfWebDebugLogger} Configuration 38.69 ms (10)
+Jun 28 03:13:35 symfony [info] {sfWebDebugLogger} Factories 32.39 ms (1)
+Jun 28 03:13:35 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1032.33 ms (1)
+Jun 28 03:13:35 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.78 ms (2)
+Jun 28 03:13:35 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 23.71 ms (1)
+Jun 28 03:13:35 symfony [info] {sfWebResponse} Send content (31238 o)
+Jun 28 03:13:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:13:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:13:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:13:55 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:13:56 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:13:56 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:13:56 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:13:56 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:13:56 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:13:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:13:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:13:56 symfony [info] {sfWebDebugLogger} Configuration 35.93 ms (10)
+Jun 28 03:13:56 symfony [info] {sfWebDebugLogger} Factories 55.95 ms (1)
+Jun 28 03:13:56 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.74 ms (1)
+Jun 28 03:13:56 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.82 ms (2)
+Jun 28 03:13:56 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 22.36 ms (1)
+Jun 28 03:13:56 symfony [info] {sfWebResponse} Send content (31270 o)
+Jun 28 03:13:57 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  1 => true,)
+Jun 28 03:13:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:13:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:13:57 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:13:58 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:13:58 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 28 03:13:58 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:13:58 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:13:58 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:13:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:13:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:13:58 symfony [info] {sfWebDebugLogger} Configuration 7.62 ms (9)
+Jun 28 03:13:58 symfony [info] {sfWebDebugLogger} Factories 25.21 ms (1)
+Jun 28 03:13:58 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.65 ms (1)
+Jun 28 03:13:58 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.73 ms (2)
+Jun 28 03:13:58 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 26.19 ms (1)
+Jun 28 03:13:58 symfony [info] {sfWebResponse} Send content (31268 o)
+Jun 28 03:14:13 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '1',)
+Jun 28 03:14:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:14:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:14:13 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:14:14 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:14:14 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 1 - ()
+Jun 28 03:14:14 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:14:14 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:14 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:14:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:14:14 symfony [info] {sfWebDebugLogger} Configuration 34.68 ms (10)
+Jun 28 03:14:14 symfony [info] {sfWebDebugLogger} Factories 55.20 ms (1)
+Jun 28 03:14:14 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1036.67 ms (1)
+Jun 28 03:14:14 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.79 ms (2)
+Jun 28 03:14:14 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 19.53 ms (1)
+Jun 28 03:14:14 symfony [info] {sfWebResponse} Send content (31264 o)
+Jun 28 03:14:33 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '1',)
+Jun 28 03:14:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:14:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:14:33 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:14:34 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:14:34 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 1 - ()
+Jun 28 03:14:34 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:14:34 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:34 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:14:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:14:34 symfony [info] {sfWebDebugLogger} Configuration 35.61 ms (10)
+Jun 28 03:14:34 symfony [info] {sfWebDebugLogger} Factories 56.49 ms (1)
+Jun 28 03:14:34 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.34 ms (1)
+Jun 28 03:14:34 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.73 ms (2)
+Jun 28 03:14:34 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 25.24 ms (1)
+Jun 28 03:14:34 symfony [info] {sfWebResponse} Send content (31264 o)
+Jun 28 03:14:40 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/1 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '1',)
+Jun 28 03:14:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:14:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:14:40 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:14:42 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:14:42 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 1 - ()
+Jun 28 03:14:42 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:14:42 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:42 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:14:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:14:42 symfony [info] {sfWebDebugLogger} Configuration 6.46 ms (9)
+Jun 28 03:14:42 symfony [info] {sfWebDebugLogger} Factories 24.75 ms (1)
+Jun 28 03:14:42 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1034.36 ms (1)
+Jun 28 03:14:42 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.69 ms (2)
+Jun 28 03:14:42 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 23.75 ms (1)
+Jun 28 03:14:42 symfony [info] {sfWebResponse} Send content (31262 o)
+Jun 28 03:14:45 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/10 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '10',)
+Jun 28 03:14:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 03:14:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 03:14:45 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 28 03:14:46 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 03:14:46 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 10 - ()
+Jun 28 03:14:46 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 28 03:14:46 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:46 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 03:14:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 03:14:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 03:14:46 symfony [info] {sfWebDebugLogger} Configuration 7.56 ms (9)
+Jun 28 03:14:46 symfony [info] {sfWebDebugLogger} Factories 30.02 ms (1)
+Jun 28 03:14:46 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1027.71 ms (1)
+Jun 28 03:14:46 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.40 ms (2)
+Jun 28 03:14:46 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 13.05 ms (1)
+Jun 28 03:14:46 symfony [info] {sfWebResponse} Send content (31277 o)
+Jun 28 06:10:18 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 06:10:18 symfony [info] {myUser} Automatic user logout due to timeout
+Jun 28 06:10:18 symfony [info] {myUser} User is not authenticated
+Jun 28 06:10:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 06:10:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 06:10:18 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 06:10:19 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 06:10:19 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 06:10:19 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\actions\actions.class.php on line 30 (Undefined variable: classifiesStr)
+Jun 28 06:10:19 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\actions\actions.class.php on line 32 (Undefined variable: classifiesStr)
+Jun 28 06:10:19 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\actions\actions.class.php on line 35 (Undefined variable: classifiesStr)
+Jun 28 06:10:19 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\actions\actions.class.php on line 35 (Undefined variable: classifiesStr)
+Jun 28 06:10:19 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\actions\actions.class.php on line 35 (Undefined variable: classifiesStr)
+Jun 28 06:10:19 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 06:10:19 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\templates\loadClassfiySuccess.php on line 2 (Undefined variable: classifiesStr)
+Jun 28 06:10:19 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:10:19 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:10:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 06:10:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 06:10:19 symfony [info] {sfWebDebugLogger} Configuration 170.25 ms (10)
+Jun 28 06:10:19 symfony [info] {sfWebDebugLogger} Factories 434.36 ms (1)
+Jun 28 06:10:19 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1276.29 ms (1)
+Jun 28 06:10:19 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.56 ms (2)
+Jun 28 06:10:19 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 105.68 ms (1)
+Jun 28 06:10:19 symfony [info] {sfWebResponse} Send content (31141 o)
+Jun 28 06:10:43 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 06:10:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 06:10:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 06:10:43 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 06:10:44 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 06:10:44 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 06:10:44 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 06:10:44 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:10:44 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:10:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 06:10:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 06:10:44 symfony [info] {sfWebDebugLogger} Configuration 7.94 ms (9)
+Jun 28 06:10:44 symfony [info] {sfWebDebugLogger} Factories 27.94 ms (1)
+Jun 28 06:10:44 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1036.46 ms (1)
+Jun 28 06:10:44 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.69 ms (2)
+Jun 28 06:10:44 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 19.98 ms (1)
+Jun 28 06:10:44 symfony [info] {sfWebResponse} Send content (30337 o)
+Jun 28 06:11:31 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 06:11:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 06:11:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 06:11:31 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 06:11:32 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 06:11:32 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 06:11:32 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 06:11:32 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:11:32 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:11:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 06:11:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 06:11:32 symfony [info] {sfWebDebugLogger} Configuration 10.25 ms (9)
+Jun 28 06:11:32 symfony [info] {sfWebDebugLogger} Factories 28.34 ms (1)
+Jun 28 06:11:32 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1031.48 ms (1)
+Jun 28 06:11:32 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.62 ms (2)
+Jun 28 06:11:32 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 19.24 ms (1)
+Jun 28 06:11:32 symfony [info] {sfWebResponse} Send content (30340 o)
+Jun 28 06:11:42 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 06:11:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 06:11:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 06:11:42 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 06:11:43 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 06:11:43 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 06:11:43 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 06:11:43 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:11:43 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:11:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 06:11:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 06:11:43 symfony [info] {sfWebDebugLogger} Configuration 11.83 ms (9)
+Jun 28 06:11:43 symfony [info] {sfWebDebugLogger} Factories 30.21 ms (1)
+Jun 28 06:11:43 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1033.16 ms (1)
+Jun 28 06:11:43 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.65 ms (2)
+Jun 28 06:11:43 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 22.78 ms (1)
+Jun 28 06:11:43 symfony [info] {sfWebResponse} Send content (30338 o)
+Jun 28 06:12:06 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 06:12:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 06:12:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 06:12:06 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 06:12:07 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 06:12:07 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 06:12:07 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 06:12:07 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:12:07 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:12:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 06:12:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 06:12:07 symfony [info] {sfWebDebugLogger} Configuration 8.52 ms (9)
+Jun 28 06:12:07 symfony [info] {sfWebDebugLogger} Factories 28.63 ms (1)
+Jun 28 06:12:07 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1037.76 ms (1)
+Jun 28 06:12:07 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.89 ms (2)
+Jun 28 06:12:07 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 14.59 ms (1)
+Jun 28 06:12:07 symfony [info] {sfWebResponse} Send content (30345 o)
+Jun 28 06:12:43 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 06:12:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 06:12:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 06:12:43 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 06:12:44 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 06:12:44 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 06:12:44 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 06:12:44 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:12:44 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 06:12:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 06:12:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 06:12:44 symfony [info] {sfWebDebugLogger} Configuration 8.07 ms (9)
+Jun 28 06:12:44 symfony [info] {sfWebDebugLogger} Factories 29.54 ms (1)
+Jun 28 06:12:44 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1039.14 ms (1)
+Jun 28 06:12:44 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.73 ms (2)
+Jun 28 06:12:44 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 17.86 ms (1)
+Jun 28 06:12:44 symfony [info] {sfWebResponse} Send content (30379 o)
+Jun 28 07:41:09 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassfiy) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 07:41:09 symfony [info] {myUser} Automatic user logout due to timeout
+Jun 28 07:41:09 symfony [info] {myUser} User is not authenticated
+Jun 28 07:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 07:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 07:41:09 symfony [info] {apiActions} Call "apiActions->executeLoadClassfiy()"
+Jun 28 07:41:10 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 07:41:10 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 07:41:10 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassfiySuccess.php"
+Jun 28 07:41:10 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 07:41:10 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 07:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 07:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 07:41:10 symfony [info] {sfWebDebugLogger} Configuration 7.96 ms (9)
+Jun 28 07:41:10 symfony [info] {sfWebDebugLogger} Factories 27.36 ms (1)
+Jun 28 07:41:10 symfony [info] {sfWebDebugLogger} Action "api/loadClassfiy" 1037.07 ms (1)
+Jun 28 07:41:10 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.75 ms (2)
+Jun 28 07:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassfiy" 19.46 ms (1)
+Jun 28 07:41:10 symfony [info] {sfWebResponse} Send content (31233 o)
+Jun 28 07:58:35 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassfiyPic/:classifyId/:num) for /api/loadClassfiyPic/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassfiyPic',  'classifyId' => '1',  'num' => '20',)
+Jun 28 07:58:35 symfony [info] {sfFrontWebController} Action "api/loadClassfiyPic" does not exist
+Jun 28 07:58:35 symfony [err] {sfError404Exception} Action "api/loadClassfiyPic" does not exist.
+Jun 28 07:58:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 07:58:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 07:58:35 symfony [info] {sfWebDebugLogger} Configuration 33.35 ms (6)
+Jun 28 07:58:35 symfony [info] {sfWebDebugLogger} Factories 56.67 ms (1)
+Jun 28 07:59:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadClassfiyPic/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassfiyPic',  1 => '20',)
+Jun 28 07:59:41 symfony [info] {sfFrontWebController} Action "api/loadClassfiyPic" does not exist
+Jun 28 07:59:41 symfony [err] {sfError404Exception} Action "api/loadClassfiyPic" does not exist.
+Jun 28 07:59:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 07:59:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 07:59:41 symfony [info] {sfWebDebugLogger} Configuration 31.66 ms (6)
+Jun 28 07:59:41 symfony [info] {sfWebDebugLogger} Factories 55.03 ms (1)
+Jun 28 07:59:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadClassfiyPic/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassfiyPic',  1 => '20',)
+Jun 28 07:59:45 symfony [info] {sfFrontWebController} Action "api/loadClassfiyPic" does not exist
+Jun 28 07:59:45 symfony [err] {sfError404Exception} Action "api/loadClassfiyPic" does not exist.
+Jun 28 07:59:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 07:59:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 07:59:45 symfony [info] {sfWebDebugLogger} Configuration 4.14 ms (5)
+Jun 28 07:59:45 symfony [info] {sfWebDebugLogger} Factories 24.91 ms (1)
+Jun 28 07:59:48 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 07:59:48 symfony [info] {sfFrontWebController} Action "api/loadClassfiy" does not exist
+Jun 28 07:59:48 symfony [err] {sfError404Exception} Action "api/loadClassfiy" does not exist.
+Jun 28 07:59:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 07:59:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 07:59:48 symfony [info] {sfWebDebugLogger} Configuration 4.25 ms (5)
+Jun 28 07:59:48 symfony [info] {sfWebDebugLogger} Factories 24.83 ms (1)
+Jun 28 08:00:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadClassfiy with parameters array (  'module' => 'api',  'action' => 'loadClassfiy',)
+Jun 28 08:00:05 symfony [info] {sfFrontWebController} Action "api/loadClassfiy" does not exist
+Jun 28 08:00:05 symfony [err] {sfError404Exception} Action "api/loadClassfiy" does not exist.
+Jun 28 08:00:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 28 08:00:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:00:05 symfony [info] {sfWebDebugLogger} Configuration 108.58 ms (5)
+Jun 28 08:00:05 symfony [info] {sfWebDebugLogger} Factories 71.94 ms (1)
+Jun 28 08:00:12 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassify) for /api/loadClassify with parameters array (  'module' => 'api',  'action' => 'loadClassify',)
+Jun 28 08:00:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 08:00:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 08:00:12 symfony [info] {apiActions} Call "apiActions->executeLoadClassify()"
+Jun 28 08:00:13 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 08:00:13 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 08:00:13 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifySuccess.php"
+Jun 28 08:00:13 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:00:13 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:00:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 08:00:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:00:13 symfony [info] {sfWebDebugLogger} Configuration 40.20 ms (10)
+Jun 28 08:00:13 symfony [info] {sfWebDebugLogger} Factories 29.37 ms (1)
+Jun 28 08:00:13 symfony [info] {sfWebDebugLogger} Action "api/loadClassify" 1045.67 ms (1)
+Jun 28 08:00:13 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.70 ms (2)
+Jun 28 08:00:13 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassify" 26.51 ms (1)
+Jun 28 08:00:13 symfony [info] {sfWebResponse} Send content (30496 o)
+Jun 28 08:00:20 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '1',  'num' => '20',)
+Jun 28 08:00:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 08:00:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 08:00:20 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 08:00:21 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 08:00:21 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (1)
+Jun 28 08:00:21 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 08:00:21 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:00:21 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:00:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 08:00:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:00:21 symfony [info] {sfWebDebugLogger} Configuration 10.60 ms (9)
+Jun 28 08:00:21 symfony [info] {sfWebDebugLogger} Factories 26.84 ms (1)
+Jun 28 08:00:21 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1118.90 ms (1)
+Jun 28 08:00:21 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.40 ms (2)
+Jun 28 08:00:21 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 30.56 ms (1)
+Jun 28 08:00:21 symfony [info] {sfWebResponse} Send content (31692 o)
+Jun 28 08:11:53 symfony [info] {sfPatternRouting} Match route "api_classify_style_pic" (/api/loadClassifyAndStylePic/:classifyId/:styleId/:num) for /api/loadClassifyAndStylePic/1/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyAndStylePic',  'classifyId' => '1',  'styleId' => '1',  'num' => '20',)
+Jun 28 08:11:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 08:11:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 08:11:54 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyAndStylePic()"
+Jun 28 08:11:55 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 08:11:55 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ? AND p.style_id = ?) LIMIT 20 - (1, 1)
+Jun 28 08:11:55 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyAndStylePicSuccess.php"
+Jun 28 08:11:55 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:11:55 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:11:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 08:11:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:11:55 symfony [info] {sfWebDebugLogger} Configuration 38.06 ms (10)
+Jun 28 08:11:55 symfony [info] {sfWebDebugLogger} Factories 59.19 ms (1)
+Jun 28 08:11:55 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyAndStylePic" 1039.31 ms (1)
+Jun 28 08:11:55 symfony [info] {sfWebDebugLogger} Database (Doctrine) 2.17 ms (2)
+Jun 28 08:11:55 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyAndStylePic" 22.60 ms (1)
+Jun 28 08:11:55 symfony [info] {sfWebResponse} Send content (31940 o)
+Jun 28 08:12:00 symfony [info] {sfPatternRouting} Match route "api_classify_style_pic" (/api/loadClassifyAndStylePic/:classifyId/:styleId/:num) for /api/loadClassifyAndStylePic/2/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyAndStylePic',  'classifyId' => '2',  'styleId' => '1',  'num' => '20',)
+Jun 28 08:12:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 08:12:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 08:12:00 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyAndStylePic()"
+Jun 28 08:12:01 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 08:12:01 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ? AND p.style_id = ?) LIMIT 20 - (2, 1)
+Jun 28 08:12:01 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyAndStylePicSuccess.php"
+Jun 28 08:12:01 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:12:01 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:12:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 08:12:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:12:01 symfony [info] {sfWebDebugLogger} Configuration 7.03 ms (9)
+Jun 28 08:12:01 symfony [info] {sfWebDebugLogger} Factories 25.48 ms (1)
+Jun 28 08:12:01 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyAndStylePic" 1035.74 ms (1)
+Jun 28 08:12:01 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.10 ms (2)
+Jun 28 08:12:01 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyAndStylePic" 28.99 ms (1)
+Jun 28 08:12:01 symfony [info] {sfWebResponse} Send content (31882 o)
+Jun 28 08:12:56 symfony [info] {sfPatternRouting} Match route "api_classify_style_pic" (/api/loadClassifyAndStylePic/:classifyId/:styleId/:num) for /api/loadClassifyAndStylePic/2/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyAndStylePic',  'classifyId' => '2',  'styleId' => '1',  'num' => '20',)
+Jun 28 08:12:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 08:12:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 08:12:56 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyAndStylePic()"
+Jun 28 08:12:57 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 08:12:57 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ? AND p.style_id = ?) LIMIT 20 - (2, 1)
+Jun 28 08:12:57 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyAndStylePicSuccess.php"
+Jun 28 08:12:57 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:12:57 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:12:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 08:12:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:12:57 symfony [info] {sfWebDebugLogger} Configuration 7.59 ms (9)
+Jun 28 08:12:57 symfony [info] {sfWebDebugLogger} Factories 24.79 ms (1)
+Jun 28 08:12:57 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyAndStylePic" 1037.27 ms (1)
+Jun 28 08:12:57 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.81 ms (2)
+Jun 28 08:12:57 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyAndStylePic" 18.93 ms (1)
+Jun 28 08:12:57 symfony [info] {sfWebResponse} Send content (31896 o)
+Jun 28 08:13:35 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassify) for /api/loadClassify with parameters array (  'module' => 'api',  'action' => 'loadClassify',)
+Jun 28 08:13:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 08:13:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 08:13:35 symfony [info] {apiActions} Call "apiActions->executeLoadClassify()"
+Jun 28 08:13:36 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 08:13:36 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 08:13:36 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifySuccess.php"
+Jun 28 08:13:36 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:13:36 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 08:13:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 08:13:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 08:13:36 symfony [info] {sfWebDebugLogger} Configuration 7.98 ms (9)
+Jun 28 08:13:36 symfony [info] {sfWebDebugLogger} Factories 30.14 ms (1)
+Jun 28 08:13:36 symfony [info] {sfWebDebugLogger} Action "api/loadClassify" 1040.14 ms (1)
+Jun 28 08:13:36 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.63 ms (2)
+Jun 28 08:13:36 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassify" 14.80 ms (1)
+Jun 28 08:13:36 symfony [info] {sfWebResponse} Send content (30494 o)
+Jun 28 13:08:30 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassify) for /api/loadClassify with parameters array (  'module' => 'api',  'action' => 'loadClassify',)
+Jun 28 13:08:30 symfony [info] {myUser} Automatic user logout due to timeout
+Jun 28 13:08:30 symfony [info] {myUser} User is not authenticated
+Jun 28 13:08:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:08:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:08:30 symfony [info] {apiActions} Call "apiActions->executeLoadClassify()"
+Jun 28 13:08:31 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:08:31 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 13:08:31 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifySuccess.php"
+Jun 28 13:08:31 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:08:31 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:08:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:08:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:08:31 symfony [info] {sfWebDebugLogger} Configuration 8.46 ms (9)
+Jun 28 13:08:31 symfony [info] {sfWebDebugLogger} Factories 32.56 ms (1)
+Jun 28 13:08:31 symfony [info] {sfWebDebugLogger} Action "api/loadClassify" 1052.98 ms (1)
+Jun 28 13:08:31 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.71 ms (2)
+Jun 28 13:08:31 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassify" 18.84 ms (1)
+Jun 28 13:08:31 symfony [info] {sfWebResponse} Send content (31231 o)
+Jun 28 13:56:50 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassify) for /api/loadClassify with parameters array (  'module' => 'api',  'action' => 'loadClassify',)
+Jun 28 13:56:50 symfony [info] {myUser} Automatic user logout due to timeout
+Jun 28 13:56:50 symfony [info] {myUser} User is not authenticated
+Jun 28 13:56:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:56:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:56:50 symfony [info] {apiActions} Call "apiActions->executeLoadClassify()"
+Jun 28 13:56:51 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:56:51 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 28 13:56:51 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifySuccess.php"
+Jun 28 13:56:51 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:56:51 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:56:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:56:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:56:51 symfony [info] {sfWebDebugLogger} Configuration 7.04 ms (9)
+Jun 28 13:56:51 symfony [info] {sfWebDebugLogger} Factories 29.57 ms (1)
+Jun 28 13:56:51 symfony [info] {sfWebDebugLogger} Action "api/loadClassify" 1021.70 ms (1)
+Jun 28 13:56:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.43 ms (2)
+Jun 28 13:56:51 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassify" 12.49 ms (1)
+Jun 28 13:56:51 symfony [info] {sfWebResponse} Send content (31231 o)
+Jun 28 13:56:56 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/loadClassifyPic with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',)
+Jun 28 13:56:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:56:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:56:56 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:56:58 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:56:58 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (1)
+Jun 28 13:56:58 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:56:58 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:56:58 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:56:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:56:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:56:58 symfony [info] {sfWebDebugLogger} Configuration 7.11 ms (9)
+Jun 28 13:56:58 symfony [info] {sfWebDebugLogger} Factories 29.10 ms (1)
+Jun 28 13:56:58 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1046.01 ms (1)
+Jun 28 13:56:58 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.18 ms (2)
+Jun 28 13:56:58 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 22.00 ms (1)
+Jun 28 13:56:58 symfony [info] {sfWebResponse} Send content (31502 o)
+Jun 28 13:57:03 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/1/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '1',  'num' => '20',)
+Jun 28 13:57:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:57:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:57:03 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:57:04 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:57:04 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (1)
+Jun 28 13:57:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:57:04 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:57:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:57:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:57:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:57:04 symfony [info] {sfWebDebugLogger} Configuration 5.95 ms (9)
+Jun 28 13:57:04 symfony [info] {sfWebDebugLogger} Factories 28.36 ms (1)
+Jun 28 13:57:04 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1025.27 ms (1)
+Jun 28 13:57:04 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.54 ms (2)
+Jun 28 13:57:04 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 13.86 ms (1)
+Jun 28 13:57:04 symfony [info] {sfWebResponse} Send content (31689 o)
+Jun 28 13:57:08 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/2/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '2',  'num' => '20',)
+Jun 28 13:57:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:57:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:57:08 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:57:09 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:57:09 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (2)
+Jun 28 13:57:09 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:57:09 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:57:09 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:57:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:57:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:57:09 symfony [info] {sfWebDebugLogger} Configuration 6.84 ms (9)
+Jun 28 13:57:09 symfony [info] {sfWebDebugLogger} Factories 28.55 ms (1)
+Jun 28 13:57:09 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1038.12 ms (1)
+Jun 28 13:57:09 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.26 ms (2)
+Jun 28 13:57:09 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 18.63 ms (1)
+Jun 28 13:57:09 symfony [info] {sfWebResponse} Send content (31615 o)
+Jun 28 13:57:25 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/2/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '2',  'num' => '20',)
+Jun 28 13:57:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:57:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:57:25 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:57:26 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:57:26 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (2)
+Jun 28 13:57:26 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:57:26 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:57:26 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:57:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:57:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:57:26 symfony [info] {sfWebDebugLogger} Configuration 6.58 ms (9)
+Jun 28 13:57:26 symfony [info] {sfWebDebugLogger} Factories 28.92 ms (1)
+Jun 28 13:57:26 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1026.11 ms (1)
+Jun 28 13:57:26 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.63 ms (2)
+Jun 28 13:57:26 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 14.00 ms (1)
+Jun 28 13:57:26 symfony [info] {sfWebResponse} Send content (31647 o)
+Jun 28 13:58:03 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/2/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '2',  'num' => '20',)
+Jun 28 13:58:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:58:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:58:03 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:58:04 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:58:04 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (2)
+Jun 28 13:58:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:58:04 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:58:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:58:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:58:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:58:04 symfony [info] {sfWebDebugLogger} Configuration 7.06 ms (9)
+Jun 28 13:58:04 symfony [info] {sfWebDebugLogger} Factories 28.75 ms (1)
+Jun 28 13:58:04 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1038.59 ms (1)
+Jun 28 13:58:04 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.75 ms (2)
+Jun 28 13:58:04 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 19.10 ms (1)
+Jun 28 13:58:04 symfony [info] {sfWebResponse} Send content (31647 o)
+Jun 28 13:59:03 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/2/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '2',  'num' => '20',)
+Jun 28 13:59:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:59:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:59:03 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:59:04 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:59:04 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (2)
+Jun 28 13:59:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:59:04 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:59:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:59:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:59:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:59:04 symfony [info] {sfWebDebugLogger} Configuration 17.33 ms (9)
+Jun 28 13:59:04 symfony [info] {sfWebDebugLogger} Factories 40.78 ms (1)
+Jun 28 13:59:04 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1038.09 ms (1)
+Jun 28 13:59:04 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.74 ms (2)
+Jun 28 13:59:04 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 22.23 ms (1)
+Jun 28 13:59:04 symfony [info] {sfWebResponse} Send content (31648 o)
+Jun 28 13:59:35 symfony [info] {sfPatternRouting} Match route "api_classify_pic" (/api/loadClassifyPic/:classifyId/:num) for /api/loadClassifyPic/2/20 with parameters array (  'module' => 'api',  'action' => 'loadClassifyPic',  'classifyId' => '2',  'num' => '20',)
+Jun 28 13:59:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 13:59:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 13:59:35 symfony [info] {apiActions} Call "apiActions->executeLoadClassifyPic()"
+Jun 28 13:59:36 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 13:59:36 symfony [info] {Doctrine_Connection_Statement} execute : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.classify_id = ?) LIMIT 20 - (2)
+Jun 28 13:59:36 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifyPicSuccess.php"
+Jun 28 13:59:36 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:59:36 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 13:59:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 13:59:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 13:59:36 symfony [info] {sfWebDebugLogger} Configuration 7.57 ms (9)
+Jun 28 13:59:36 symfony [info] {sfWebDebugLogger} Factories 28.72 ms (1)
+Jun 28 13:59:36 symfony [info] {sfWebDebugLogger} Action "api/loadClassifyPic" 1030.36 ms (1)
+Jun 28 13:59:36 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.45 ms (2)
+Jun 28 13:59:36 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassifyPic" 14.42 ms (1)
+Jun 28 13:59:36 symfony [info] {sfWebResponse} Send content (31683 o)
+Jun 28 14:13:35 symfony [info] {sfPatternRouting} Match route "api_recom_pics" (/api/loadRecomPic/:num) for /api/loadRecomPic/20 with parameters array (  'module' => 'api',  'action' => 'loadRecomPic',  'num' => '20',)
+Jun 28 14:13:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 14:13:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 14:13:35 symfony [info] {apiActions} Call "apiActions->executeLoadRecomPic()"
+Jun 28 14:13:36 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 14:13:36 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1 AND p.isidea = 1) LIMIT 20 - ()
+Jun 28 14:13:36 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadRecomPicSuccess.php"
+Jun 28 14:13:36 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:13:36 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:13:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 14:13:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 14:13:36 symfony [info] {sfWebDebugLogger} Configuration 41.40 ms (10)
+Jun 28 14:13:36 symfony [info] {sfWebDebugLogger} Factories 63.44 ms (1)
+Jun 28 14:13:36 symfony [info] {sfWebDebugLogger} Action "api/loadRecomPic" 1034.40 ms (1)
+Jun 28 14:13:36 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.20 ms (2)
+Jun 28 14:13:36 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadRecomPic" 19.89 ms (1)
+Jun 28 14:13:36 symfony [info] {sfWebResponse} Send content (31387 o)
+Jun 28 14:23:12 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/login with parameters array (  'module' => 'api',  'action' => 'login',)
+Jun 28 14:23:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 14:23:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 14:23:12 symfony [info] {apiActions} Call "apiActions->executeLogin()"
+Jun 28 14:23:13 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 14:23:13 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.password = ? AND u.active = 1) - (, )
+Jun 28 14:23:13 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loginSuccess.php"
+Jun 28 14:23:13 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:13 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 14:23:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 14:23:13 symfony [info] {sfWebDebugLogger} Configuration 42.23 ms (10)
+Jun 28 14:23:13 symfony [info] {sfWebDebugLogger} Factories 62.95 ms (1)
+Jun 28 14:23:13 symfony [info] {sfWebDebugLogger} Action "api/login" 1038.18 ms (1)
+Jun 28 14:23:13 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.16 ms (2)
+Jun 28 14:23:13 symfony [info] {sfWebDebugLogger} View "Success" for "api/login" 22.16 ms (1)
+Jun 28 14:23:13 symfony [info] {sfWebResponse} Send content (30689 o)
+Jun 28 14:23:17 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/login/hsun with parameters array (  'module' => 'api',  'action' => 'login',  'hsun' => true,)
+Jun 28 14:23:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 14:23:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 14:23:17 symfony [info] {apiActions} Call "apiActions->executeLogin()"
+Jun 28 14:23:18 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 14:23:18 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.password = ? AND u.active = 1) - (, )
+Jun 28 14:23:18 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loginSuccess.php"
+Jun 28 14:23:18 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:18 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 14:23:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 14:23:18 symfony [info] {sfWebDebugLogger} Configuration 7.41 ms (9)
+Jun 28 14:23:18 symfony [info] {sfWebDebugLogger} Factories 25.74 ms (1)
+Jun 28 14:23:18 symfony [info] {sfWebDebugLogger} Action "api/login" 1033.79 ms (1)
+Jun 28 14:23:18 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.69 ms (2)
+Jun 28 14:23:18 symfony [info] {sfWebDebugLogger} View "Success" for "api/login" 26.81 ms (1)
+Jun 28 14:23:18 symfony [info] {sfWebResponse} Send content (30755 o)
+Jun 28 14:23:25 symfony [info] {sfPatternRouting} Match route "api_login" (/api/login/:username/:password) for /api/login/hsun/1qaz@!WSX with parameters array (  'module' => 'api',  'action' => 'login',  'username' => 'hsun',  'password' => '1qaz@!WSX',)
+Jun 28 14:23:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 14:23:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 14:23:25 symfony [info] {apiActions} Call "apiActions->executeLogin()"
+Jun 28 14:23:26 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 14:23:26 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.password = ? AND u.active = 1) - (hsun, 1qaz@!WSX)
+Jun 28 14:23:26 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loginSuccess.php"
+Jun 28 14:23:26 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:26 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 14:23:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 14:23:26 symfony [info] {sfWebDebugLogger} Configuration 7.82 ms (9)
+Jun 28 14:23:26 symfony [info] {sfWebDebugLogger} Factories 29.76 ms (1)
+Jun 28 14:23:26 symfony [info] {sfWebDebugLogger} Action "api/login" 1042.98 ms (1)
+Jun 28 14:23:26 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.99 ms (2)
+Jun 28 14:23:26 symfony [info] {sfWebDebugLogger} View "Success" for "api/login" 20.68 ms (1)
+Jun 28 14:23:26 symfony [info] {sfWebResponse} Send content (30938 o)
+Jun 28 14:23:33 symfony [info] {sfPatternRouting} Match route "api_login" (/api/login/:username/:password) for /api/login/hsun/1qaz@WSX with parameters array (  'module' => 'api',  'action' => 'login',  'username' => 'hsun',  'password' => '1qaz@WSX',)
+Jun 28 14:23:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 14:23:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 14:23:33 symfony [info] {apiActions} Call "apiActions->executeLogin()"
+Jun 28 14:23:34 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 14:23:34 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.password = ? AND u.active = 1) - (hsun, 1qaz@WSX)
+Jun 28 14:23:34 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loginSuccess.php"
+Jun 28 14:23:34 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:34 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 14:23:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 14:23:34 symfony [info] {sfWebDebugLogger} Configuration 8.00 ms (9)
+Jun 28 14:23:34 symfony [info] {sfWebDebugLogger} Factories 29.54 ms (1)
+Jun 28 14:23:34 symfony [info] {sfWebDebugLogger} Action "api/login" 1045.62 ms (1)
+Jun 28 14:23:34 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.16 ms (2)
+Jun 28 14:23:34 symfony [info] {sfWebDebugLogger} View "Success" for "api/login" 28.93 ms (1)
+Jun 28 14:23:34 symfony [info] {sfWebResponse} Send content (30928 o)
+Jun 28 14:23:39 symfony [info] {sfPatternRouting} Match route "api_login" (/api/login/:username/:password) for /api/login/hsun/1qaz@Wf with parameters array (  'module' => 'api',  'action' => 'login',  'username' => 'hsun',  'password' => '1qaz@Wf',)
+Jun 28 14:23:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 28 14:23:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 28 14:23:39 symfony [info] {apiActions} Call "apiActions->executeLogin()"
+Jun 28 14:23:40 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 28 14:23:40 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.password = ? AND u.active = 1) - (hsun, 1qaz@Wf)
+Jun 28 14:23:40 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loginSuccess.php"
+Jun 28 14:23:40 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:40 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 28 14:23:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 28 14:23:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 28 14:23:40 symfony [info] {sfWebDebugLogger} Configuration 7.04 ms (9)
+Jun 28 14:23:40 symfony [info] {sfWebDebugLogger} Factories 26.52 ms (1)
+Jun 28 14:23:40 symfony [info] {sfWebDebugLogger} Action "api/login" 1038.82 ms (1)
+Jun 28 14:23:40 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.19 ms (2)
+Jun 28 14:23:40 symfony [info] {sfWebDebugLogger} View "Success" for "api/login" 24.46 ms (1)
+Jun 28 14:23:40 symfony [info] {sfWebResponse} Send content (30920 o)
+Jun 29 09:51:45 symfony [info] {sfPatternRouting} Match route "api_login" (/api/login/:username/:password) for /api/login/hsun/1qaz@Wf with parameters array (  'module' => 'api',  'action' => 'login',  'username' => 'hsun',  'password' => '1qaz@Wf',)
+Jun 29 09:51:45 symfony [info] {myUser} Automatic user logout due to timeout
+Jun 29 09:51:45 symfony [info] {myUser} User is not authenticated
+Jun 29 09:51:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:51:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:51:45 symfony [info] {apiActions} Call "apiActions->executeLogin()"
+Jun 29 09:51:46 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 09:51:46 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.password = ? AND u.active = 1) - (hsun, 1qaz@Wf)
+Jun 29 09:51:46 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loginSuccess.php"
+Jun 29 09:51:46 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:51:46 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:51:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:51:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:51:46 symfony [info] {sfWebDebugLogger} Configuration 12.10 ms (9)
+Jun 29 09:51:46 symfony [info] {sfWebDebugLogger} Factories 43.32 ms (1)
+Jun 29 09:51:46 symfony [info] {sfWebDebugLogger} Action "api/login" 1069.48 ms (1)
+Jun 29 09:51:46 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.85 ms (2)
+Jun 29 09:51:46 symfony [info] {sfWebDebugLogger} View "Success" for "api/login" 27.28 ms (1)
+Jun 29 09:51:46 symfony [info] {sfWebResponse} Send content (31660 o)
+Jun 29 09:53:03 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/20 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '20',)
+Jun 29 09:53:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:53:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:53:03 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 29 09:53:04 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 09:53:04 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 29 09:53:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 29 09:53:04 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:53:04 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:53:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:53:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:53:04 symfony [info] {sfWebDebugLogger} Configuration 8.83 ms (9)
+Jun 29 09:53:04 symfony [info] {sfWebDebugLogger} Factories 34.54 ms (1)
+Jun 29 09:53:04 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1049.41 ms (1)
+Jun 29 09:53:04 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.02 ms (2)
+Jun 29 09:53:04 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 28.89 ms (1)
+Jun 29 09:53:04 symfony [info] {sfWebResponse} Send content (31313 o)
+Jun 29 09:53:23 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/20 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '20',)
+Jun 29 09:53:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:53:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:53:23 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 29 09:53:24 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 09:53:24 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 29 09:53:24 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 29 09:53:24 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:53:24 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:53:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:53:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:53:24 symfony [info] {sfWebDebugLogger} Configuration 8.29 ms (9)
+Jun 29 09:53:24 symfony [info] {sfWebDebugLogger} Factories 34.57 ms (1)
+Jun 29 09:53:24 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1039.97 ms (1)
+Jun 29 09:53:24 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.75 ms (2)
+Jun 29 09:53:24 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 33.03 ms (1)
+Jun 29 09:53:24 symfony [info] {sfWebResponse} Send content (31046 o)
+Jun 29 09:53:39 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/20 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '20',)
+Jun 29 09:53:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:53:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:53:39 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 29 09:53:40 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 09:53:40 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 29 09:53:40 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 29 09:53:40 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:53:40 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:53:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:53:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:53:40 symfony [info] {sfWebDebugLogger} Configuration 19.41 ms (9)
+Jun 29 09:53:40 symfony [info] {sfWebDebugLogger} Factories 46.31 ms (1)
+Jun 29 09:53:40 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1040.10 ms (1)
+Jun 29 09:53:40 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.62 ms (2)
+Jun 29 09:53:40 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 24.88 ms (1)
+Jun 29 09:53:40 symfony [info] {sfWebResponse} Send content (31030 o)
+Jun 29 09:54:15 symfony [info] {sfPatternRouting} Match route "api_pics" (/api/loadPic/:num) for /api/loadPic/20 with parameters array (  'module' => 'api',  'action' => 'loadPic',  'num' => '20',)
+Jun 29 09:54:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:54:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:54:15 symfony [info] {apiActions} Call "apiActions->executeLoadPic()"
+Jun 29 09:54:16 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 09:54:16 symfony [info] {Doctrine_Connection_Mysql} query : SELECT p.id AS p__id, p.name AS p__name, p.src AS p__src, p.isidea AS p__isidea, p.classify_id AS p__classify_id, p.style_id AS p__style_id, p.city_id AS p__city_id, p.active AS p__active FROM picture p WHERE (p.active = 1) LIMIT 20 - ()
+Jun 29 09:54:16 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadPicSuccess.php"
+Jun 29 09:54:16 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:54:16 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:54:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:54:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:54:16 symfony [info] {sfWebDebugLogger} Configuration 19.34 ms (9)
+Jun 29 09:54:16 symfony [info] {sfWebDebugLogger} Factories 40.11 ms (1)
+Jun 29 09:54:16 symfony [info] {sfWebDebugLogger} Action "api/loadPic" 1033.74 ms (1)
+Jun 29 09:54:16 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.76 ms (2)
+Jun 29 09:54:16 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadPic" 37.00 ms (1)
+Jun 29 09:54:16 symfony [info] {sfWebResponse} Send content (31342 o)
+Jun 29 09:59:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 29 09:59:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:59:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:59:49 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 29 09:59:49 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\lib\vendor\symfony\lib/controller/default/templates/indexSuccess.php"
+Jun 29 09:59:49 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 29 09:59:49 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\lib\vendor\symfony\lib\controller\default\templates/defaultLayout.php"
+Jun 29 09:59:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:59:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:59:49 symfony [info] {sfWebDebugLogger} Configuration 63.12 ms (10)
+Jun 29 09:59:49 symfony [info] {sfWebDebugLogger} Factories 32.15 ms (1)
+Jun 29 09:59:49 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jun 29 09:59:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 54.97 ms (1)
+Jun 29 09:59:49 symfony [info] {sfWebResponse} Send content (29162 o)
+Jun 29 09:59:55 symfony [info] {sfPatternRouting} Match route "api_classify" (/api/loadClassify) for /api/loadClassify with parameters array (  'module' => 'api',  'action' => 'loadClassify',)
+Jun 29 09:59:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 09:59:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 09:59:56 symfony [info] {apiActions} Call "apiActions->executeLoadClassify()"
+Jun 29 09:59:57 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 09:59:57 symfony [info] {Doctrine_Connection_Mysql} query : SELECT c.id AS c__id, c.name AS c__name, c.active AS c__active FROM classify c WHERE (c.active = 1) - ()
+Jun 29 09:59:57 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadClassifySuccess.php"
+Jun 29 09:59:57 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:59:57 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 09:59:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 09:59:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 09:59:57 symfony [info] {sfWebDebugLogger} Configuration 9.40 ms (9)
+Jun 29 09:59:57 symfony [info] {sfWebDebugLogger} Factories 33.28 ms (1)
+Jun 29 09:59:57 symfony [info] {sfWebDebugLogger} Action "api/loadClassify" 1048.94 ms (1)
+Jun 29 09:59:57 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.77 ms (2)
+Jun 29 09:59:57 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadClassify" 27.96 ms (1)
+Jun 29 09:59:57 symfony [info] {sfWebResponse} Send content (30492 o)
+Jun 29 10:37:13 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun2/11/hsun@adobe.com with parameters array (  'module' => 'api',  'action' => 'register',  'hsun2' => '11',  'hsun@adobe.com' => true,)
+Jun 29 10:37:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:37:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:37:13 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:37:14 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:37:14 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:37:14 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:37:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:37:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:37:14 symfony [info] {sfWebDebugLogger} Configuration 166.86 ms (8)
+Jun 29 10:37:14 symfony [info] {sfWebDebugLogger} Factories 82.75 ms (1)
+Jun 29 10:37:14 symfony [info] {sfWebDebugLogger} Action "api/register" 1243.28 ms (1)
+Jun 29 10:37:14 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.30 ms (1)
+Jun 29 10:37:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:37:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:37:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:37:49 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:37:50 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:37:50 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:37:50 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:37:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:37:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:37:50 symfony [info] {sfWebDebugLogger} Configuration 7.83 ms (8)
+Jun 29 10:37:50 symfony [info] {sfWebDebugLogger} Factories 34.34 ms (1)
+Jun 29 10:37:50 symfony [info] {sfWebDebugLogger} Action "api/register" 1158.76 ms (1)
+Jun 29 10:37:50 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.35 ms (1)
+Jun 29 10:38:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:38:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:38:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:38:27 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:38:28 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:38:28 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:38:28 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:38:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:38:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:38:28 symfony [info] {sfWebDebugLogger} Configuration 10.88 ms (8)
+Jun 29 10:38:28 symfony [info] {sfWebDebugLogger} Factories 42.93 ms (1)
+Jun 29 10:38:28 symfony [info] {sfWebDebugLogger} Action "api/register" 1140.39 ms (1)
+Jun 29 10:38:28 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.38 ms (1)
+Jun 29 10:38:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:38:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:38:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:38:55 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:38:56 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:38:56 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:38:56 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:38:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:38:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:38:56 symfony [info] {sfWebDebugLogger} Configuration 9.44 ms (8)
+Jun 29 10:38:56 symfony [info] {sfWebDebugLogger} Factories 36.75 ms (1)
+Jun 29 10:38:56 symfony [info] {sfWebDebugLogger} Action "api/register" 1140.71 ms (1)
+Jun 29 10:38:56 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.30 ms (1)
+Jun 29 10:39:12 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:39:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:39:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:39:12 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:39:12 symfony [err] {sfRenderException} The template "registerSuccess.php" does not exist or is unreadable in "".
+Jun 29 10:39:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:39:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:39:12 symfony [info] {sfWebDebugLogger} Configuration 30.42 ms (10)
+Jun 29 10:39:12 symfony [info] {sfWebDebugLogger} Factories 43.15 ms (1)
+Jun 29 10:39:12 symfony [info] {sfWebDebugLogger} Action "api/register" 0.12 ms (1)
+Jun 29 10:39:12 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 84.75 ms (1)
+Jun 29 10:39:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:39:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:39:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:39:32 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:39:33 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:39:33 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:39:33 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:39:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:39:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:39:33 symfony [info] {sfWebDebugLogger} Configuration 10.07 ms (8)
+Jun 29 10:39:33 symfony [info] {sfWebDebugLogger} Factories 39.42 ms (1)
+Jun 29 10:39:33 symfony [info] {sfWebDebugLogger} Action "api/register" 1140.10 ms (1)
+Jun 29 10:39:33 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.27 ms (1)
+Jun 29 10:39:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:39:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:39:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:39:45 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:39:45 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:39:45 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:39:45 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:39:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:39:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:39:45 symfony [info] {sfWebDebugLogger} Configuration 10.35 ms (9)
+Jun 29 10:39:45 symfony [info] {sfWebDebugLogger} Factories 42.38 ms (1)
+Jun 29 10:39:45 symfony [info] {sfWebDebugLogger} Action "api/register" 0.11 ms (1)
+Jun 29 10:39:45 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 16.34 ms (1)
+Jun 29 10:39:45 symfony [info] {sfWebResponse} Send content (27827 o)
+Jun 29 10:40:35 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:40:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:40:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:40:35 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:40:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:40:35 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:40:35 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:40:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:40:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:40:35 symfony [info] {sfWebDebugLogger} Configuration 8.25 ms (9)
+Jun 29 10:40:35 symfony [info] {sfWebDebugLogger} Factories 33.09 ms (1)
+Jun 29 10:40:35 symfony [info] {sfWebDebugLogger} Action "api/register" 0.09 ms (1)
+Jun 29 10:40:35 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 13.38 ms (1)
+Jun 29 10:40:35 symfony [info] {sfWebResponse} Send content (27826 o)
+Jun 29 10:40:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:40:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:40:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:40:38 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:40:38 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:40:38 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:40:38 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:40:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:40:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:40:38 symfony [info] {sfWebDebugLogger} Configuration 9.56 ms (9)
+Jun 29 10:40:38 symfony [info] {sfWebDebugLogger} Factories 35.65 ms (1)
+Jun 29 10:40:38 symfony [info] {sfWebDebugLogger} Action "api/register" 0.09 ms (1)
+Jun 29 10:40:38 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 12.21 ms (1)
+Jun 29 10:40:38 symfony [info] {sfWebResponse} Send content (27827 o)
+Jun 29 10:40:52 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:40:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:40:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:40:52 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:40:52 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:40:52 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:40:52 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:40:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:40:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:40:52 symfony [info] {sfWebDebugLogger} Configuration 8.13 ms (9)
+Jun 29 10:40:52 symfony [info] {sfWebDebugLogger} Factories 31.83 ms (1)
+Jun 29 10:40:52 symfony [info] {sfWebDebugLogger} Action "api/register" 0.09 ms (1)
+Jun 29 10:40:52 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 12.76 ms (1)
+Jun 29 10:40:52 symfony [info] {sfWebResponse} Send content (27826 o)
+Jun 29 10:41:27 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:41:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:41:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:41:27 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:41:27 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:41:27 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:41:27 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:41:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:41:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:41:27 symfony [info] {sfWebDebugLogger} Configuration 165.13 ms (9)
+Jun 29 10:41:27 symfony [info] {sfWebDebugLogger} Factories 81.27 ms (1)
+Jun 29 10:41:27 symfony [info] {sfWebDebugLogger} Action "api/register" 0.10 ms (1)
+Jun 29 10:41:27 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 16.39 ms (1)
+Jun 29 10:41:27 symfony [info] {sfWebResponse} Send content (27829 o)
+Jun 29 10:41:38 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/api/register/hsun@adobe.com/hsun2/11" (/).
+Jun 29 10:41:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jun 29 10:41:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:41:38 symfony [info] {sfWebDebugLogger} Configuration 44.48 ms (6)
+Jun 29 10:41:38 symfony [info] {sfWebDebugLogger} Factories 71.01 ms (1)
+Jun 29 10:41:59 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsun/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsun',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:41:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:41:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:41:59 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:41:59 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:41:59 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:41:59 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:41:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:41:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:41:59 symfony [info] {sfWebDebugLogger} Configuration 8.25 ms (9)
+Jun 29 10:41:59 symfony [info] {sfWebDebugLogger} Factories 33.89 ms (1)
+Jun 29 10:41:59 symfony [info] {sfWebDebugLogger} Action "api/register" 0.11 ms (1)
+Jun 29 10:41:59 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 9.20 ms (1)
+Jun 29 10:41:59 symfony [info] {sfWebResponse} Send content (27801 o)
+Jun 29 10:42:12 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsun@adobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsun@adobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:42:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:42:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:42:12 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:42:13 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:42:13 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:42:13 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:42:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:42:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:42:13 symfony [info] {sfWebDebugLogger} Configuration 44.27 ms (9)
+Jun 29 10:42:13 symfony [info] {sfWebDebugLogger} Factories 70.26 ms (1)
+Jun 29 10:42:13 symfony [info] {sfWebDebugLogger} Action "api/register" 1152.02 ms (1)
+Jun 29 10:42:13 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.38 ms (1)
+Jun 29 10:42:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /api/register/hsunadobe.com/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'hsunadobe.com' => 'hsun2',  11 => true,)
+Jun 29 10:42:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:42:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:42:28 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:42:29 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:42:29 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active) VALUES (?) - (1)
+Jun 29 10:42:29 symfony [err] {Doctrine_Connection_Mysql_Exception} SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+Jun 29 10:42:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:42:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:42:29 symfony [info] {sfWebDebugLogger} Configuration 6.91 ms (8)
+Jun 29 10:42:29 symfony [info] {sfWebDebugLogger} Factories 32.92 ms (1)
+Jun 29 10:42:29 symfony [info] {sfWebDebugLogger} Action "api/register" 1151.00 ms (1)
+Jun 29 10:42:29 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.40 ms (1)
+Jun 29 10:42:36 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:42:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:42:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:42:36 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:42:37 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:42:37 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active, name, password, email) VALUES (?, ?, ?, ?) - (1, hsun2, 11, hsunadobecom)
+Jun 29 10:42:37 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:42:37 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:42:37 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:42:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:42:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:42:37 symfony [info] {sfWebDebugLogger} Configuration 10.72 ms (9)
+Jun 29 10:42:37 symfony [info] {sfWebDebugLogger} Factories 34.25 ms (1)
+Jun 29 10:42:37 symfony [info] {sfWebDebugLogger} Action "api/register" 1151.55 ms (1)
+Jun 29 10:42:37 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.05 ms (2)
+Jun 29 10:42:37 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 22.34 ms (1)
+Jun 29 10:42:37 symfony [info] {sfWebResponse} Send content (30489 o)
+Jun 29 10:47:45 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:47:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:47:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:47:45 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:47:46 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:47:46 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active, name, password, email) VALUES (?, ?, ?, ?) - (1, hsun2, 11, hsunadobecom)
+Jun 29 10:47:46 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:47:46 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:47:46 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:47:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:47:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:47:46 symfony [info] {sfWebDebugLogger} Configuration 11.79 ms (9)
+Jun 29 10:47:46 symfony [info] {sfWebDebugLogger} Factories 43.08 ms (1)
+Jun 29 10:47:46 symfony [info] {sfWebDebugLogger} Action "api/register" 1035.50 ms (1)
+Jun 29 10:47:46 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.96 ms (2)
+Jun 29 10:47:46 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 26.22 ms (1)
+Jun 29 10:47:46 symfony [info] {sfWebResponse} Send content (30522 o)
+Jun 29 10:48:13 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:48:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:48:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:48:13 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:48:14 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:48:14 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active, name, password, email) VALUES (?, ?, ?, ?) - (1, hsun2, 11, hsunadobecom)
+Jun 29 10:48:14 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:48:14 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:48:14 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:48:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:48:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:48:14 symfony [info] {sfWebDebugLogger} Configuration 13.25 ms (9)
+Jun 29 10:48:14 symfony [info] {sfWebDebugLogger} Factories 37.28 ms (1)
+Jun 29 10:48:14 symfony [info] {sfWebDebugLogger} Action "api/register" 1019.91 ms (1)
+Jun 29 10:48:14 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.83 ms (2)
+Jun 29 10:48:14 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 20.75 ms (1)
+Jun 29 10:48:14 symfony [info] {sfWebResponse} Send content (30522 o)
+Jun 29 10:48:23 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:48:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:48:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:48:23 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:48:24 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:48:24 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active, name, password, email) VALUES (?, ?, ?, ?) - (1, hsun2, 11, hsunadobecom)
+Jun 29 10:48:24 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:48:24 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:48:24 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:48:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:48:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:48:24 symfony [info] {sfWebDebugLogger} Configuration 10.76 ms (9)
+Jun 29 10:48:24 symfony [info] {sfWebDebugLogger} Factories 29.75 ms (1)
+Jun 29 10:48:24 symfony [info] {sfWebDebugLogger} Action "api/register" 1046.42 ms (1)
+Jun 29 10:48:24 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.85 ms (2)
+Jun 29 10:48:24 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 26.09 ms (1)
+Jun 29 10:48:24 symfony [info] {sfWebResponse} Send content (30522 o)
+Jun 29 10:50:24 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:50:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:50:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:50:24 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:53:44 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:53:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:53:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:53:44 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:53:45 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 10:53:45 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active, name, password, email) VALUES (?, ?, ?, ?) - (1, hsun2, 11, hsunadobecom)
+Jun 29 10:53:45 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 10:53:45 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:53:45 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 10:53:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 10:53:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:53:45 symfony [info] {sfWebDebugLogger} Configuration 10.66 ms (9)
+Jun 29 10:53:45 symfony [info] {sfWebDebugLogger} Factories 42.52 ms (1)
+Jun 29 10:53:45 symfony [info] {sfWebDebugLogger} Action "api/register" 1035.34 ms (1)
+Jun 29 10:53:45 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.87 ms (2)
+Jun 29 10:53:45 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 26.12 ms (1)
+Jun 29 10:53:46 symfony [info] {sfWebResponse} Send content (30556 o)
+Jun 29 10:57:04 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 10:57:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 10:57:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 10:57:04 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 10:57:05 symfony [err] {Doctrine_Table_Exception} Unknown method UserTable::getUserByName
+Jun 29 10:57:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 10:57:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 10:57:05 symfony [info] {sfWebDebugLogger} Configuration 7.26 ms (8)
+Jun 29 10:57:05 symfony [info] {sfWebDebugLogger} Factories 33.51 ms (1)
+Jun 29 10:57:05 symfony [info] {sfWebDebugLogger} Action "api/register" 148.23 ms (1)
+Jun 29 11:01:42 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 11:01:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 11:01:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 11:01:42 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 11:01:42 symfony [err] {Doctrine_Table_Exception} Unknown method UserTable::getUserByName
+Jun 29 11:01:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jun 29 11:01:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 11:01:42 symfony [info] {sfWebDebugLogger} Configuration 7.35 ms (8)
+Jun 29 11:01:42 symfony [info] {sfWebDebugLogger} Factories 32.96 ms (1)
+Jun 29 11:01:42 symfony [info] {sfWebDebugLogger} Action "api/register" 51.28 ms (1)
+Jun 29 11:02:42 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 11:02:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 11:02:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 11:02:42 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 11:02:43 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 11:02:43 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.active = 1) - (hsun2)
+Jun 29 11:02:43 symfony [info] {Doctrine_Connection_Statement} execute : INSERT INTO user (active, name, password, email) VALUES (?, ?, ?, ?) - (1, hsun2, 11, hsunadobecom)
+Jun 29 11:02:43 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 11:02:43 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:02:43 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:02:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 11:02:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 11:02:43 symfony [info] {sfWebDebugLogger} Configuration 11.38 ms (9)
+Jun 29 11:02:43 symfony [info] {sfWebDebugLogger} Factories 43.13 ms (1)
+Jun 29 11:02:43 symfony [info] {sfWebDebugLogger} Action "api/register" 1049.81 ms (1)
+Jun 29 11:02:43 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.66 ms (3)
+Jun 29 11:02:43 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 26.59 ms (1)
+Jun 29 11:02:43 symfony [info] {sfWebResponse} Send content (32075 o)
+Jun 29 11:02:56 symfony [info] {sfPatternRouting} Match route "api_register" (/api/register/:email/:username/:password) for /api/register/hsunadobecom/hsun2/11 with parameters array (  'module' => 'api',  'action' => 'register',  'email' => 'hsunadobecom',  'username' => 'hsun2',  'password' => '11',)
+Jun 29 11:02:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 11:02:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 11:02:57 symfony [info] {apiActions} Call "apiActions->executeRegister()"
+Jun 29 11:02:58 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 11:02:58 symfony [info] {Doctrine_Connection_Statement} execute : SELECT u.id AS u__id, u.name AS u__name, u.email AS u__email, u.password AS u__password, u.active AS u__active FROM user u WHERE (u.name = ? AND u.active = 1) - (hsun2)
+Jun 29 11:02:58 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/registerSuccess.php"
+Jun 29 11:02:58 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:02:58 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:02:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 11:02:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 11:02:58 symfony [info] {sfWebDebugLogger} Configuration 12.08 ms (9)
+Jun 29 11:02:58 symfony [info] {sfWebDebugLogger} Factories 45.80 ms (1)
+Jun 29 11:02:58 symfony [info] {sfWebDebugLogger} Action "api/register" 1048.45 ms (1)
+Jun 29 11:02:58 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.13 ms (2)
+Jun 29 11:02:58 symfony [info] {sfWebDebugLogger} View "Success" for "api/register" 24.87 ms (1)
+Jun 29 11:02:58 symfony [info] {sfWebResponse} Send content (31088 o)
+Jun 29 11:12:20 symfony [info] {sfPatternRouting} Match route "api_style" (/api/loadStyle) for /api/loadStyle with parameters array (  'module' => 'api',  'action' => 'loadStyle',)
+Jun 29 11:12:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 11:12:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 11:12:20 symfony [info] {apiActions} Call "apiActions->executeLoadStyle()"
+Jun 29 11:12:21 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 11:12:21 symfony [info] {Doctrine_Connection_Mysql} query : SELECT s.id AS s__id, s.name AS s__name, s.active AS s__active FROM style s WHERE (s.active = 1) - ()
+Jun 29 11:12:21 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadStyleSuccess.php"
+Jun 29 11:12:21 symfony [notice] {sfWebDebugLogger}  Notice at E:\workspacePHP\Home\apps\backend\modules\api\templates\loadStyleSuccess.php on line 1 (Use of undefined constant stylesStr - assumed 'stylesStr')
+Jun 29 11:12:21 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:12:21 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:12:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 11:12:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 11:12:21 symfony [info] {sfWebDebugLogger} Configuration 49.25 ms (10)
+Jun 29 11:12:21 symfony [info] {sfWebDebugLogger} Factories 72.87 ms (1)
+Jun 29 11:12:21 symfony [info] {sfWebDebugLogger} Action "api/loadStyle" 1040.75 ms (1)
+Jun 29 11:12:21 symfony [info] {sfWebDebugLogger} Database (Doctrine) 1.21 ms (2)
+Jun 29 11:12:21 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadStyle" 28.59 ms (1)
+Jun 29 11:12:21 symfony [info] {sfWebResponse} Send content (30425 o)
+Jun 29 11:12:48 symfony [info] {sfPatternRouting} Match route "api_style" (/api/loadStyle) for /api/loadStyle with parameters array (  'module' => 'api',  'action' => 'loadStyle',)
+Jun 29 11:12:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 29 11:12:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 29 11:12:48 symfony [info] {apiActions} Call "apiActions->executeLoadStyle()"
+Jun 29 11:12:49 symfony [info] {Doctrine_Connection_Mysql} exec : SET NAMES 'UTF8' - ()
+Jun 29 11:12:49 symfony [info] {Doctrine_Connection_Mysql} query : SELECT s.id AS s__id, s.name AS s__name, s.active AS s__active FROM style s WHERE (s.active = 1) - ()
+Jun 29 11:12:49 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\modules/api/templates/loadStyleSuccess.php"
+Jun 29 11:12:49 symfony [info] {sfPHPView} Decorate content with "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:12:49 symfony [info] {sfPHPView} Render "E:\workspacePHP\Home\apps\backend\templates/layout.php"
+Jun 29 11:12:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 29 11:12:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 29 11:12:49 symfony [info] {sfWebDebugLogger} Configuration 12.21 ms (9)
+Jun 29 11:12:49 symfony [info] {sfWebDebugLogger} Factories 43.52 ms (1)
+Jun 29 11:12:49 symfony [info] {sfWebDebugLogger} Action "api/loadStyle" 1042.72 ms (1)
+Jun 29 11:12:49 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.68 ms (2)
+Jun 29 11:12:49 symfony [info] {sfWebDebugLogger} View "Success" for "api/loadStyle" 23.50 ms (1)
+Jun 29 11:12:49 symfony [info] {sfWebResponse} Send content (30353 o)
+Jul 06 08:44:12 symfony [info] {sfPatternRouting} Match route "api_favour" (/api/favour/:pictureId/:userId) for /api/favour/1/1 with parameters array (  'module' => 'api',  'action' => 'favour',  'pictureId' => '1',  'userId' => '1',)
+Jul 06 08:44:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 06 08:44:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 06 08:44:12 symfony [info] {apiActions} Call "apiActions->executeFavour()"
+Jul 06 08:44:13 symfony [err] {Doctrine_Record_Exception} Couldn't call Doctrine_Core::set(), second argument should be an instance of Doctrine_Record or Doctrine_Null when setting one-to-one references.
+Jul 06 08:44:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jul 06 08:44:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 06 08:44:13 symfony [info] {sfWebDebugLogger} Configuration 305.10 ms (9)
+Jul 06 08:44:13 symfony [info] {sfWebDebugLogger} Factories 755.78 ms (1)
+Jul 06 08:44:13 symfony [info] {sfWebDebugLogger} Action "api/favour" 702.85 ms (1)
